@@ -24,7 +24,7 @@
    "TELEPHONE":"+44 (0) 20 7911 5000",
    "FAX NUMBER":"23423396",
    "WEBSITE":"https://www.westminster.ac.uk/about-us/visit-us/cavendish",
-   "RELIGION":"PROTESTANTISM / CHRISTIANITY"
+   
    }
  },
  {
@@ -50,7 +50,7 @@
     "TELEPHONE":"29593606",
     "FAX NUMBER":"29593615",
     "WEBSITE":"http://www.twghscops.edu.hk",
-    "RELIGION":"NOT APPLICABLE"
+    
     }
   },
   {
@@ -76,7 +76,7 @@
     "TELEPHONE":"+44 (0)20 7911 5000",
     "FAX NUMBER":"26686512",
     "WEBSITE":"https://www.westminster.ac.uk/about-us/visit-us/harrow",
-    "RELIGION":"PROTESTANTISM / CHRISTIANITY"
+    
     }
   },{
     "type": "Feature",
@@ -101,7 +101,7 @@
     "TELEPHONE":"+44 (0) 20 7911 5000",
     "FAX NUMBER":"24112207",
     "WEBSITE":"http://plkflpy.edu.hk",
-    "RELIGION":"NOT APPLICABLE"
+    
     }
   }
 ]
