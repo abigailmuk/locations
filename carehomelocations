@@ -5,7 +5,7 @@
    "type": "Feature",
    "geometry": {
       "type": "Point",
-      "coordinates":  [ 114.21096,22.33402 ]
+      "coordinates":  [ -0.1817, 51.52838 ]
    },
    "properties": {
    "SCHOOL NO.":1,
@@ -31,7 +31,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 114.17779,22.37848 ]
+       "coordinates":  [ -0.1817, 51.52838 ]
     },
     "properties": {
     "SCHOOL NO.":2,
@@ -57,7 +57,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 114.1714,22.45534 ]
+       "coordinates":  [ -0.1817, 51.52838 ]
     },
     "properties": {
     "SCHOOL NO.":3,
