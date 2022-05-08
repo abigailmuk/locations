@@ -28,81 +28,56 @@
    }
  },
  {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ 114.21096,22.33402 ]
-   },
-   "properties": {
-   "SCHOOL NO.":600881000123,
-   "ENGLISH CATEGORY":"Aided Primary Schools",
-   "ENGLISH NAME":"TWGHS SHUI CHUEN O PRIMARY SCHOOL",
-   "ENGLISH ADDRESS":"ESTATE PRIMARY SCHOOL NO.1, MEI LAM ESTATE, SHATIN, NEW TERRITORIES",
-   "經度":114.17779,
-   "緯度":22.37848,
-   "EASTING":836362,
-   "NORTHING":836362,
-   "STUDENTS GENDER":"CO-ED",
-   "SESSION":"WHOLE DAY",
-   "DISTRICT":"SHA TIN",
-   "FINANCE TYPE":"AIDED",
-   "SCHOOL LEVEL":"PRIMARY",
-   "TELEPHONE":"23423322",
-   "FAX NUMBER":"23423396",
-   "WEBSITE":"http://www.sk2.edu.hk",
-   "RELIGION":"NOT APPLICABLE"
-   }
- }, {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ 114.21096,22.33402 ]
-   },
-   "properties": {
-   "SCHOOL NO.":600881000123,
-   "ENGLISH CATEGORY":"Aided Primary Schools",
-   "ENGLISH NAME":"CHRISTIAN & MISSIONARY ALLIANCE SUN KEI PRIMARY SCHOOL (PING SHEK)",
-   "ENGLISH ADDRESS":"ESTATE SCHOOL NO.2 PING SHEK ESTATE 12 CLEAR WATER BAY ROAD KOWLOON",
-   "經度":114.21096,
-    "緯度":22.33402,
-   "EASTING":839779,
-   "NORTHING":821663,
-   "STUDENTS GENDER":"CO-ED",
-   "SESSION":"WHOLE DAY",
-   "DISTRICT":"KWUN TONG",
-   "FINANCE TYPE":"AIDED",
-   "SCHOOL LEVEL":"PRIMARY",
-   "TELEPHONE":"23423322",
-   "FAX NUMBER":"23423396",
-   "WEBSITE":"http://www.sk2.edu.hk",
-   "RELIGION":"PROTESTANTISM / CHRISTIANITY"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ 114.21096,22.33402 ]
-   },
-   "properties": {
-   "SCHOOL NO.":600881000123,
-   "ENGLISH CATEGORY":"Aided Primary Schools",
-   "ENGLISH NAME":"TWGHS SHUI CHUEN O PRIMARY SCHOOL",
-   "ENGLISH ADDRESS":"ESTATE PRIMARY SCHOOL NO.1, MEI LAM ESTATE, SHATIN, NEW TERRITORIES",
-   "經度":114.17779,
-   "緯度":22.37848,
-   "EASTING":836362,
-   "NORTHING":836362,
-   "STUDENTS GENDER":"CO-ED",
-   "SESSION":"WHOLE DAY",
-   "DISTRICT":"SHA TIN",
-   "FINANCE TYPE":"AIDED",
-   "SCHOOL LEVEL":"PRIMARY",
-   "TELEPHONE":"23423322",
-   "FAX NUMBER":"23423396",
-   "WEBSITE":"http://www.sk2.edu.hk",
-   "RELIGION":"NOT APPLICABLE"
-   }
- }
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.17779,22.37848 ]
+    },
+    "properties": {
+    "SCHOOL NO.":610160000123,
+    "ENGLISH CATEGORY":"Aided Primary Schools",
+    "ENGLISH NAME":"TWGHS SHUI CHUEN O PRIMARY SCHOOL",
+    "ENGLISH ADDRESS":"ESTATE PRIMARY SCHOOL NO.1, MEI LAM ESTATE, SHATIN, NEW TERRITORIES",
+    "經度":114.17779,
+    "緯度":22.37848,
+    "EASTING":836362,
+    "NORTHING":826586,
+    "STUDENTS GENDER":"CO-ED",
+    "SESSION":"WHOLE DAY",
+    "DISTRICT":"SHA TIN",
+    "FINANCE TYPE":"AIDED",
+    "SCHOOL LEVEL":"PRIMARY",
+    "TELEPHONE":"29593606",
+    "FAX NUMBER":"29593615",
+    "WEBSITE":"http://www.twghscops.edu.hk",
+    "RELIGION":"NOT APPLICABLE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1714,22.45534 ]
+    },
+    "properties": {
+    "SCHOOL NO.":610224000123,
+    "ENGLISH CATEGORY":"Aided Primary Schools",
+    "ENGLISH NAME":"NEW TERRITORIES WOMEN & JUVENILES WELFARE ASSOCIATION CHRISTIAN REMEMBRANCE OF GRACE PRIMARY SCHOOL",
+    "ENGLISH ADDRESS":"ESTATE PRIMARY SCHOOL NO. 1, TAI YUEN ESTATE, TAI PO, NEW TERRITORIES",
+    "經度":114.1714,
+    "緯度":22.45534,
+    "EASTING":835705,
+    "NORTHING":835097,
+    "STUDENTS GENDER":"CO-ED",
+    "SESSION":"WHOLE DAY",
+    "DISTRICT":"TAI PO",
+    "FINANCE TYPE":"AIDED",
+    "SCHOOL LEVEL":"PRIMARY",
+    "TELEPHONE":"26686112",
+    "FAX NUMBER":"26686512",
+    "WEBSITE":"http://taipocrgps.edu.hk",
+    "RELIGION":"PROTESTANTISM / CHRISTIANITY"
+    }
+  }
 ]
 }
