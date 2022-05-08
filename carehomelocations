@@ -9,7 +9,7 @@
    },
    "properties": {
    "SCHOOL NO.":1,
-   "ENGLISH CATEGORY":"Aided Primary Schools",
+   "ENGLISH CATEGORY":"College of Design, Creative and Digital Industries",
    "ENGLISH NAME":"University of Westminster Cavendish Campus",
    "ENGLISH ADDRESS":"115 New Cavendish St, London W1W 6UW",
    "lat":51.52443,
@@ -21,9 +21,9 @@
    "DISTRICT":"KWUN TONG",
    "FINANCE TYPE":"AIDED",
    "SCHOOL LEVEL":"PRIMARY",
-   "TELEPHONE":"23423322",
+   "TELEPHONE":"+44 (0) 20 7911 5000",
    "FAX NUMBER":"23423396",
-   "WEBSITE":"http://www.sk2.edu.hk",
+   "WEBSITE":"https://www.westminster.ac.uk/about-us/visit-us/cavendish",
    "RELIGION":"PROTESTANTISM / CHRISTIANITY"
    }
  },
@@ -35,7 +35,7 @@
     },
     "properties": {
     "SCHOOL NO.":2,
-    "ENGLISH CATEGORY":"Aided Primary Schools",
+    "ENGLISH CATEGORY":"College of Liberal Arts and Sciences",
     "ENGLISH NAME":"University of Westminster Little Titchfield Street",
     "ENGLISH ADDRESS":"4–12 Little Titchfield St, London W1W 7BY",
     "lat":51.51839,
@@ -61,7 +61,7 @@
     },
     "properties": {
     "SCHOOL NO.":3,
-    "ENGLISH CATEGORY":"Aided Primary Schools",
+    "ENGLISH CATEGORY":"College of Design, Creative and Digital Industries",
     "ENGLISH NAME":"University Of Westminster, Harrow Campus",
     "ENGLISH ADDRESS":"Watford Rd, Northwick Park Roundabout, Harrow HA1 3TP",
     "lat":51.57754,
@@ -73,9 +73,9 @@
     "DISTRICT":"TAI PO",
     "FINANCE TYPE":"AIDED",
     "SCHOOL LEVEL":"PRIMARY",
-    "TELEPHONE":"26686112",
+    "TELEPHONE":"+44 (0)20 7911 5000",
     "FAX NUMBER":"26686512",
-    "WEBSITE":"http://taipocrgps.edu.hk",
+    "WEBSITE":"https://www.westminster.ac.uk/about-us/visit-us/harrow",
     "RELIGION":"PROTESTANTISM / CHRISTIANITY"
     }
   },{
@@ -85,20 +85,20 @@
        "coordinates":  [ -0.1817, 51.52838 ]
     },
     "properties": {
-    "SCHOOL NO.":584118000123,
-    "ENGLISH CATEGORY":"Aided Primary Schools",
-    "ENGLISH NAME":"PO LEUNG KUK WOMEN'S WELFARE CLUB WESTERN DISTRICT FUNG LEE PUI YIU PRIMARY SCHOOL",
-    "ENGLISH ADDRESS":"11 KWUN TSING ROAD SO KWUN WAT TUEN MUN NEW TERRITORIES",
+    "SCHOOL NO.":4,
+    "ENGLISH CATEGORY":"Westminster Business School",
+    "ENGLISH NAME":"University Of Westminster, Marylebone Hall",
+    "ENGLISH ADDRESS":"35 Marylebone Rd, London NW1 5LS",
     "lat":113.99531,
     "lng":22.37395,
-    "EASTING":817569,
-    "NORTHING":826096,
+    "EASTING":528100,
+    "NORTHING":181968,
     "STUDENTS GENDER":"CO-ED",
     "SESSION":"WHOLE DAY",
     "DISTRICT":"TUEN MUN",
     "FINANCE TYPE":"AIDED",
     "SCHOOL LEVEL":"PRIMARY",
-    "TELEPHONE":"24112208",
+    "TELEPHONE":"+44 (0) 20 7911 5000",
     "FAX NUMBER":"24112207",
     "WEBSITE":"http://plkflpy.edu.hk",
     "RELIGION":"NOT APPLICABLE"
