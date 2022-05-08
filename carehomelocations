@@ -24,7 +24,6 @@
    "TELEPHONE":"+44 (0) 20 7911 5000",
    "FAX NUMBER":"23423396",
    "WEBSITE":"https://www.westminster.ac.uk/about-us/visit-us/cavendish"
-   
    }
  },
  {
@@ -50,7 +49,6 @@
     "TELEPHONE":"29593606",
     "FAX NUMBER":"29593615",
     "WEBSITE":"http://www.twghscops.edu.hk"
-    
     }
   },
   {
@@ -76,7 +74,6 @@
     "TELEPHONE":"+44 (0)20 7911 5000",
     "FAX NUMBER":"26686512",
     "WEBSITE":"https://www.westminster.ac.uk/about-us/visit-us/harrow"
-    
     }
   },{
     "type": "Feature",
@@ -101,7 +98,6 @@
     "TELEPHONE":"+44 (0) 20 7911 5000",
     "FAX NUMBER":"24112207",
     "WEBSITE":"http://plkflpy.edu.hk"
-    
     }
   }
 ]
