@@ -82,15 +82,15 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 113.99531,22.37395 ]
+       "coordinates":  [ -0.1817, 51.52838 ]
     },
     "properties": {
     "SCHOOL NO.":584118000123,
     "ENGLISH CATEGORY":"Aided Primary Schools",
     "ENGLISH NAME":"PO LEUNG KUK WOMEN'S WELFARE CLUB WESTERN DISTRICT FUNG LEE PUI YIU PRIMARY SCHOOL",
     "ENGLISH ADDRESS":"11 KWUN TSING ROAD SO KWUN WAT TUEN MUN NEW TERRITORIES",
-    "經度":113.99531,
-    "緯度":22.37395,
+    "lat":113.99531,
+    "lng":22.37395,
     "EASTING":817569,
     "NORTHING":826096,
     "STUDENTS GENDER":"CO-ED",
